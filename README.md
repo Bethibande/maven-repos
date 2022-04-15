@@ -7,7 +7,7 @@ This github repositorys hosts all my maven/gradle repos
 
 
 ## JWebAPI
-Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jwebapi/1.0.1/jwebapi-1.0.1.jar)
+Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jwebapi/1.1.0/jwebapi-1.1.0.jar)
 ### Gradle
 ```gradle
 repositories {
@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'de.bethibande:jwebapi:1.0.1'
+    implementation 'de.bethibande:jwebapi:1.1.0'
 }
 ```
 ### Maven
@@ -30,12 +30,12 @@ dependencies {
 <dependency>
     <groupId>de.bethibande</groupId>
     <artifactId>jwebapi</artifactId>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
 ## JSQL
-Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jsql/1.2.3/jsql-1.2.3.jar)
+Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jsql/1.2.4/jsql-1.2.4.jar)
 ### Gradle
 ```gradle
 repositories {
@@ -45,7 +45,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'de.bethibande:jsql:1.2.3'
+    implementation 'de.bethibande:jsql:1.2.4'
 }
 ```
 ### Maven
@@ -58,6 +58,6 @@ dependencies {
 <dependency>
     <groupId>de.bethibande</groupId>
     <artifactId>jsql</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.4</version>
 </dependency>
 ```
