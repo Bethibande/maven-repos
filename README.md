@@ -35,7 +35,7 @@ dependencies {
 ```
 
 ## JSQL
-Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jsql/1.3/jsql-1.3.jar)
+Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jsql/1.4.1/jsql-1.4.1.jar)
 ### Gradle
 ```gradle
 repositories {
@@ -45,7 +45,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'de.bethibande:jsql:1.3'
+    implementation 'de.bethibande:jsql:1.4.1'
 }
 ```
 ### Maven
@@ -58,6 +58,6 @@ dependencies {
 <dependency>
     <groupId>de.bethibande</groupId>
     <artifactId>jsql</artifactId>
-    <version>1.3</version>
+    <version>1.4.1</version>
 </dependency>
 ```
