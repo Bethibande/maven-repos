@@ -7,7 +7,7 @@ This github repositorys hosts all my maven/gradle repos
 
 
 ## JWebAPI
-Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/de/bethibande/jwebapi/1.1.1/jwebapi-1.1.1.jar)
+Download latest build [here](https://github.com/Bethibande/maven-repos/blob/main/JWebAPI.jar)
 ### Gradle
 ```gradle
 repositories {
@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'de.bethibande:jwebapi:1.1.1'
+    implementation 'de.bethibande:jwebapi:2.1'
 }
 ```
 ### Maven
@@ -30,7 +30,7 @@ dependencies {
 <dependency>
     <groupId>de.bethibande</groupId>
     <artifactId>jwebapi</artifactId>
-    <version>1.1.1</version>
+    <version>2.1</version>
 </dependency>
 ```
 
