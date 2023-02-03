@@ -3,7 +3,7 @@
   <groupId>de.bethibande</groupId>
   <artifactId>jwebapi</artifactId>
   <versioning>
-    <release>1.2-PRE</release>
+    <release>2.2-PRE</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -19,7 +19,8 @@
       <version>1.2.6</version>
       <version>2.1.6</version>
       <version>1.2-PRE</version>
+      <version>2.2-PRE</version>
     </versions>
-    <lastUpdated>20230203172915</lastUpdated>
+    <lastUpdated>20230203174007</lastUpdated>
   </versioning>
 </metadata>
